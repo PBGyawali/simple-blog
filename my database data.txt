@@ -1,0 +1,16 @@
+database=facebook_apps
+table=register_detail
+
+attributes=
+
+
+userid
+first name
+last name
+username
+password
+email
+phone
+sex
+occupation
+age
