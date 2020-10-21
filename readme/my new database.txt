@@ -1,0 +1,10 @@
+database= registration
+table= users
+
+attributes=
+
+
+userid
+username
+password
+email
